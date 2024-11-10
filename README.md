@@ -33,17 +33,7 @@
    ```bash
    cd ProductApp/ProductApp
 
-3. Необходимо установить инструменты для работы с EF Core:
-
-   ```bash
-   dotnet tool install --global dotnet-ef
-
-4. Необходимо установить инструменты для работы с EF Core:
-
-   ```bash
-   dotnet ef dbcontext scaffold "Data Source=products.db" Microsoft.EntityFrameworkCore.Sqlite
-
-5. Запустите приложение:
+3. Запустите приложение:
 
    ```bash
    dotnet run
