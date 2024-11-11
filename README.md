@@ -38,3 +38,4 @@
    ```bash
    dotnet run
 
+4. Перейти по адресу http://localhost:5278/swagger/index.html
